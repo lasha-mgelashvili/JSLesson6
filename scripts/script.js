@@ -35,3 +35,8 @@ innertext.forEach(element => {
 });
 
 console.log(innertext);
+
+// homework 3
+
+
+//მოკლედ სამის ნახევარია ახლა და ძაან დავიღალე დანარჩენს კვირას დავწერ ამის გაგრძელებას
